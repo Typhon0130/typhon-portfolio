@@ -1,2 +1,2 @@
 # typhon-portfolio
-Typhon Develoer's protfolio.
+Typhon Develoer's protfolio
